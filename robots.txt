@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wilayw.github.io/sitemap.html
+Sitemap: https://wilayw.github.io/app/sitemap.html
+Sitemap: https://wilayw.github.io/assets/sitemap.html
+Sitemap: https://wilayw.github.io/includes/sitemap.html
+Sitemap: https://wilayw.github.io/src/sitemap.html
